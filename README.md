@@ -32,9 +32,13 @@ assets/
 Abre el archivo `index.html` en tu navegador y sigue las instrucciones en pantalla.
 
 ---
+## Multimedia
 
-![Juego amigo secreto](./assets/jugando-amigo-secreto.gif)
+### Juego amigo secreto
+![Juego amigo secreto](./assets/jugando-amigo-secreto.gif)  
 
-![Manejo de errores](./assets/manejo-errores.gif)
+### Manejo de errores
+![Manejo de errores](./assets/manejo-errores.gif)  
 
-[Ver video completo](./assets/challenge-amigo-secreto.mp4)
+### Ver Video completo
+[Amigo Secreto](./assets/challenge-amigo-secreto.mp4)
